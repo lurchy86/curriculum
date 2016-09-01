@@ -363,6 +363,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Cicero Ferreira's solution](https://github.com/devcicerojr/mytheodinproject/tree/master/project-euler)
 * [Benjamin's solution](https://github.com/Benjamin-Re/Euler.git)
 * [Harsimran Mann's Solution](https://github.com/pure5abi/euler-problems)
+* [Franz Asperger's Solution](https://github.com/lurchy86/js-euler-problems) |[View on Codepen](http://codepen.io/lurchy86/full/vXBOmd)
 * Add your solution above this line!
 
 ## Additional Resources
